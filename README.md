@@ -1,0 +1,1 @@
+These are jupyter notebooks that scrape projections for NFL players from various web sources, store them in a SQL database and then aggregate them into an ensemble projection.
